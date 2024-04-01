@@ -1,0 +1,157 @@
+/* Header fullwidth Searchbar background color fix */
+.site-header .header-search-primary{background-color:transparent;}
+
+/* Button style */
+.bb-dfy-primary-btn .bb-tabs__link,
+.bb-dfy-primary-btn .elementor-button{background-color:var(--bb-primary-button-background-regular)!important;color:var(--bb-primary-button-text-regular)!important;border:1px solid var(--bb-primary-button-border-regular)!important;}
+.bb-dfy-primary-btn .bb-tabs__link:hover,
+.bb-dfy-primary-btn .elementor-button:hover{background-color:var(--bb-primary-button-background-hover)!important;color:var(--bb-primary-button-text-hover)!important;border-color:var(--bb-primary-button-border-hover)!important;}
+.bb-dfy-secondary-btn .bb-tabs__link,
+.bb-dfy-secondary-btn .elementor-button{background-color:var(--bb-secondary-button-background-regular)!important;color:var(--bb-secondary-button-text-regular)!important;border:1px solid var(--bb-secondary-button-border-regular)!important;}
+.bb-dfy-secondary-btn .bb-tabs__link:hover,
+.bb-dfy-secondary-btn .elementor-button:hover{background-color:var(--bb-secondary-button-background-hover)!important;color:var(--bb-secondary-button-text-hover)!important;border-color:var(--bb-secondary-button-border-hover)!important;}
+.bb-dfy-primary-btn-without-brd .elementor-button{background-color:var(--bb-primary-button-background-regular)!important;color:var(--bb-primary-button-text-regular)!important;border:0!important;}
+.bb-dfy-primary-btn-without-brd .elementor-button:hover{background-color:var(--bb-primary-button-background-hover)!important;color:var(--bb-primary-button-text-hover)!important;border:0!important;}
+.bb-dfy-secondary-btn .elementor-button{background-color:var(--bb-secondary-button-background-regular)!important;color:var(--bb-secondary-button-text-regular)!important;border:0!important;}
+.bb-dfy-secondary-btn-without-brd .elementor-button:hover{background-color:var(--bb-secondary-button-background-hover)!important;color:var(--bb-secondary-button-text-hover)!important;border:0!important;}
+
+/* Footer style */
+.footer-bottom.bb-footer .container{position:relative;padding-top:30px;}
+.footer-widget-area.bb-footer .container{padding-top:50px;position:relative;padding-bottom:20px;}
+.footer-bottom.bb-footer .container:before,
+.footer-widget-area.bb-footer .container:before{content:"";position:absolute;top:0;width:calc(100% - 20px);left:10px;border-top:1px solid #E5E5E5;}
+.footer-widget-area.bb-footer .widget{padding:0;border-radius:0;margin-bottom:0;}
+.footer-widget-area.bb-footer .widget+.widget{margin-top:30px;}
+.footer-widget-area.bb-footer .widget .widget-title{font-size:16px;line-height:24px;margin-bottom:15px;}
+.footer-widget-area.bb-footer .widget ul li{margin:0;}
+.footer-widget-area.bb-footer .widget ul li+li{margin-top:10px;}
+.footer-widget-area.bb-footer .widget ul li a{padding:0;font-size:16px;line-height:19px;width:auto;}
+.footer-widget-area.bb-footer .widget ul li a i{display:none;}
+.footer-widget-area.bb-footer .widget ul li a:hover{background-color:transparent;color:var(--bb-footer-menu-link-color-hover);}
+.footer-widget-area.bb-footer .widget ul li.current-menu-item a{background-color:transparent;color:var(--bb-footer-menu-link-color-active);}
+.footer-widget-area.bb-footer .widget ul li a[target="_blank"]:after{content:'\ee68';font-family:bb-icons;margin-left:5px;font-weight:300;}
+.footer-widget-area.bb-footer .widget ul li.see-all-link a{color:var(--bb-footer-menu-link-color-hover);}
+.footer-widget-area.bb-footer .widget ul li.see-all-link a:after{content:'\e860';font-family:bb-icons;margin-left:3px;font-weight:300;vertical-align:middle;transition:all .4s;transform:translate(0,0);display:inline-block;}
+.footer-widget-area.bb-footer .widget ul li.see-all-link a:hover:after{animation:active-hover 1.5s;}
+@keyframes active-hover{
+	0%,
+	100%,
+	20%,
+	50%,
+	80%{transform:translateX(0)}
+	40%{transform:translateX(10px)}
+	60%{transform:translateX(5px)}
+}
+
+/* Sidenav style */
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li{margin:0;}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li a:not([href]){font-size:15px;line-height:24px;margin-bottom:10px;text-transform:uppercase;padding:0;background:transparent!important;color:var(--bb-headings-color)!important;font-weight:600;margin-top:20px;}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li:first-child a:not([href]){margin-top:0;}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li a{font-size:15px;line-height:19px;padding:8px;display:flex;align-items:center;color:var(--bb-sidenav-text-regular);background-color:var(--bb-sidenav-menu-background-color-regular);}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li a ._mi{margin:0 8px 0 0;color:var(--bb-sidenav-text-regular);}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li a:hover{color:var(--bb-sidenav-text-hover);background-color:var(--bb-sidenav-menu-background-color-hover);}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li a:hover ._mi{color:var(--bb-sidenav-text-hover);}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li.current-menu-item a{color:var(--bb-sidenav-text-active);background-color:var(--bb-sidenav-menu-background-color-active);}
+.widget-area.sm-grid-1-1 .widget_nav_menu .menu-sidebar-container ul li.current-menu-item a ._mi{color:var(--bb-sidenav-text-active);}
+
+/* Login & Register style */
+body.login-split-page.login-split-page .login-split{align-items:flex-end!important;justify-content:flex-start!important;}
+body.login-split-page.login-split-page .login-split:before{content:"";position:absolute;left:0;bottom:0;width:100%;height:60%;background:linear-gradient(359.44deg,rgba(0,0,0,0.8) -3.84%,rgba(90,90,90,0) 102.82%);opacity:0.4;}
+body.login-split-page.login-split-page .login-split .login-split__entry{max-width:540px;margin-left:65px;margin-right:auto;margin-bottom:100px;}
+body.login-split-page.login-split-page .login-split__entry h1{font-weight:800;font-size:52px;line-height:1;letter-spacing:0.22px;text-shadow:0px 4px 4px rgb(0 0 0 / 5%);}
+body.login-split-page.login-split-page .login-split__entry p{font-weight:400;font-size:18px;line-height:30px;letter-spacing:-0.24px;text-shadow:0px 4px 4px rgb(0 0 0 / 5%);margin-top:10px;}
+body.login.login-split-page #login h1 a{margin-left:auto;margin-right:auto;margin-bottom:50px;}
+.login .login-heading{display:block;text-align:center;margin-top:0;margin-bottom:60px;}
+.login .login-heading h2,
+body.register #page #primary .entry-header .entry-title{font-weight:800;font-size:42px;line-height:1;letter-spacing:0.22px;margin-bottom:20px;}
+.login.login-action-lostpassword.bb-login #login>p.message>div>h2{font-size:26px;text-align:center;font-weight:400;line-height:18px;}
+.login .login-heading h2,
+body.register #page #primary .entry-header .entry-title{margin-bottom:15px;}
+body.register #page #primary .entry-header span{font-size:0;text-transform:inherit;}
+body.login .login-heading a,
+body.register #page #primary .entry-header span a{font-weight:500;font-size:15px;line-height:21px;letter-spacing:-0.25px;text-transform:capitalize;}
+.login .login-heading span:before,
+body.register #page #primary .entry-header span:before{content:"Not a member?";font-weight:600;font-size:15px;line-height:21px;letter-spacing:-0.25px;margin-right:5px;}
+body.register #page #primary .entry-header span:before{content:"Already a member?";}
+body.register #page #primary .entry-header span a:after{content:"now";margin-left:5px;}
+body.login form{margin-top:0;}
+.bs-bp-container-reg #buddypress #signup-form.standard-form label:not(.option-label),.bs-bp-container-reg #buddypress #signup-form.standard-form legend{display:none;}
+.login input[type=text],
+.login form#loginform input[type=text],
+.login form#loginform input[type=password],
+.login form#loginform input[type=text]#user_pass,
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=text],
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=email],
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=password]{padding:10px 35px 10px 30px;height:50px;border-radius:0;border:0;border-bottom:1px solid #000000!important;margin-bottom:15px;box-shadow:0 0 0px 1000px white inset!important;font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.257143px;color:#000;}
+.login form#lostpasswordform input[type=text],
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=text],
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=email]{padding-left:0;padding-right:0;}
+.bs-bp-container-reg #buddypress #signup-form.standard-form input[type=password],
+.bs-bp-container-reg #buddypress #signup-form.standard-form .signup_password input[type=text]{padding-left:0;}
+.login.bb-login form#lostpasswordform .button-primary{margin-top:13px;}
+.login .user-pass-wrap .wp-pwd:before{content:'\eecc';}
+.user-pass-wrap .wp-pwd:before,
+.login form#loginform label[for=user_login]:before,
+.login form#loginform label[for=user_pass]:before{top:15px!important;left:0;margin:0;font-size:20px!important;color:#000!important;}
+.login input.placeholder,
+.register input.placeholder,
+.login form#loginform input.placeholder{font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.257143px;color:#535353;}
+.login input:-moz-placeholder,
+.register input:-moz-placeholder,
+.login form#loginform input:-moz-placeholder{font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.257143px;color:#535353;}
+.login input:-ms-input-placeholder,
+.register input:-ms-input-placeholder,
+.login form#loginform input:-ms-input-placeholder{font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.257143px;color:#535353;}
+.login input::-webkit-input-placeholder,
+.register input::-webkit-input-placeholder,
+.login form#loginform input::-webkit-input-placeholder{font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.257143px;color:#535353;}
+.login .button.wp-hide-pw,
+.bb-password-wrap a.bb-toggle-password{width:35px;height:50px;padding:0;display:flex;align-items:center;justify-content:center;}
+.login .user-pass-wrap .wp-pwd .dashicons,
+.bb-password-wrap a.bb-toggle-password .bb-icon-eye{position:static;color:#000!important;font-size:22px;margin:0;line-height:1;opacity:1;}
+.login.bb-login form .forgetmenot{display:flex;align-items:center;}
+.login.bb-login form .forgetmenot input[type=checkbox],
+.login.bb-login form .forgetmenot input[type=checkbox]:before{width:16px;height:16px;top:calc(50% + 3px);transform:translateY(-50%);border:0;}
+.login-split-page span.checkbox,
+.bs-bp-container-reg #buddypress #signup-form.standard-form .checkbox-options label:before{width:16px;height:16px;border-radius:4px!important;border:1px solid #000000;}
+.bs-bp-container-reg #buddypress #signup-form.standard-form .checkbox-options label:before{margin-top:1px;}
+.login-split-page span.checkbox.on:before{line-height:16px;font-size:13px;margin:0;top:-4px;left:1px;}
+.bs-bp-container-reg #buddypress #signup-form.standard-form .checkbox-options label:after{left:1px;top:1px;}
+body.login p.forgetmenot label{font-weight:500;font-size:14px;line-height:18px;letter-spacing:-0.257143px;}
+.login form .lostmenot a,
+form#lostpasswordform a.bs-sign-in{font-weight:400;font-size:14px;line-height:17px;letter-spacing:-0.257143px;}
+.login.bb-login .button-primary,
+.bs-bp-container-reg #buddypress #signup-form.standard-form .submit input[type=submit]{margin-top:35px;padding:14px 30px;border-radius:7px;font-weight:700;font-size:18px;line-height:21px;letter-spacing:-0.257143px;}
+.bs-bp-container-reg #buddypress #signup-form.standard-form .submit input[type=submit]{background-color:var(--bb-login-register-button-background-color-regular);border-color:var(--bb-login-register-button-border-color-regular);color:var(--bb-login-register-button-text-color-regular);height:51px;margin-top:0;}
+body.login .privacy-policy-page-link{margin:50px 0;font-weight:400;font-size:16px;line-height:19px;letter-spacing:-0.25px;}
+body.login .privacy-policy-page-link a{font-weight:500;font-size:16px;line-height:19px;letter-spacing:-0.25px;}
+.login #login_error{border-left-color:rgba(255,79,79,0.1);background-color:rgba(255,79,79,0.1);color:#ED5151;margin-bottom:15px;font-weight:400;font-size:12px;line-height:16px;letter-spacing:-0.25px;padding:9px 12px;}
+.login.login-action-lostpassword.bb-login #login>p.message{padding-top:0;margin-top:0;margin-bottom:30px;}
+.login.login-action-lostpassword .message>.message,
+.login:not(.login-action-lostpassword) .message:not(.reset-pass){background:transparent;padding:0;font-weight:400;font-size:15px;line-height:18px;text-align:center;letter-spacing:-0.257143px;color:var(--bb-admin-screen-txt-color);margin-top:10px;margin-bottom:0;}
+.login.login-action-lostpassword .message>.message:before{content:"Lost your password?";margin-right:5px;}
+.login:not(.login-action-lostpassword) .message:not(.reset-pass){max-width:90%;margin:0 auto;}
+.login:not(.login-action-lostpassword) .message:not(.reset-pass) a{color:var(--bb-login-register-link-color-regular);font-weight:400;font-size:15px;line-height:18px;letter-spacing:-0.257143px;}
+.login.login-action-checkemail .login-heading{margin-bottom:30px;}
+body.login.login-action-checkemail .privacy-policy-page-link{margin:30px 0;}
+body.buddypress.register .register-section-logo img{display:block;margin:0 auto 50px;}
+body.register #page #primary .entry-header{display:block;margin-bottom:60px;}
+body.register .bs-bp-container-reg #buddypress #signup-form.standard-form div.error{border-left-color:rgba(255,79,79,0.1);background-color:rgba(255,79,79,0.1);margin-bottom:0;padding:9px 12px;}
+body.register .bs-bp-container-reg #buddypress #signup-form.standard-form div.error .error{border:0;background:transparent;padding:0;margin:0}
+body.register .bs-bp-container-reg #buddypress #signup-form.standard-form div.error p{color:#ED5151;font-weight:400;font-size:12px;line-height:16px;letter-spacing:-0.25px;}
+body.register  .bs-bp-container-reg .buddypress-wrap .bp-messages.info{background:transparent;padding:0;max-width:90%;margin:0 auto;border:0;}
+body.register .bs-bp-container-reg .buddypress-wrap .bp-messages.info p{color:var(--bb-admin-screen-txt-color);font-weight:400;font-size:15px;line-height:18px;text-align:center;letter-spacing:-0.257143px;padding:0;}
+body.register .bs-bp-container-reg .buddypress-wrap .bp-messages.info .bp-icon{display:none;}
+body.register div#breadcrumbs{display:none;}
+@media (min-width:992px){
+	body.login.login-split-page #login{padding-left:-webkit-calc((50vw - 385px)/ 2);padding-left:calc((50vw - 385px)/ 2);padding-right:-webkit-calc((50vw - 385px)/ 2);padding-right:calc((50vw - 385px)/ 2);}
+	body.buddypress.register.login-split-page .site-main{width:100%;}
+	body.buddypress.activate.login-split-page .activate-section-logo,
+	body.buddypress.activate.login-split-page .register-section-logo,
+	body.buddypress.register.login-split-page .activate-section-logo,
+	body.buddypress.register.login-split-page .register-section-logo,
+	body.buddypress.activate.login-split-page article.bp_activate,
+	body.buddypress.activate.login-split-page article.bp_register,
+	body.buddypress.register.login-split-page article.bp_activate,
+	body.buddypress.register.login-split-page article.bp_register{margin-left:-webkit-calc((50vw - 385px)/ 2);margin-left:calc((50vw - 385px)/ 2);margin-right:-webkit-calc((50vw - 385px)/ 2);margin-right:calc((50vw - 385px)/ 2);width:385px;max-width:100%;}
+}
