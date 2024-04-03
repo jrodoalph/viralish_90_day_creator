@@ -6,69 +6,13 @@ Uri: http://localhost/personal_website/viralish_php/public/content/css?family=Mo
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\css
 Content Type: 
 
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/backstory.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\backstory.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/creator_banner2.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\creator_banner2.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/creator_thumbnail2.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\creator_thumbnail2.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/curiosity_gap.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\curiosity_gap.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/focused_watching.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\focused_watching.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/opposing_items.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\opposing_items.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/relatability.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\relatability.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/scroll.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\scroll.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/start_in_action.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\start_in_action.png
-Content Type: image/png
-
-Uri: http://localhost/personal_website/viralish_php/public/content/manual/write_ideas.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\manual\write_ideas.png
-Content Type: image/png
-
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-app/assets/css/main.css?ver=2.0.70
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-app\assets\css\main.css
 Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-app/assets/js/main.js?ver=2.0.70
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-app\assets\js\main.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-app/assets/js/main.js?ver=2.0.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-app\assets\js\main-1.js
-Content Type: application/javascript
-
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/assets/css/index.min.css?ver=2.4.80
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\assets\css\index.min.css
 Content Type: text/css
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/assets/js/bb-countdown.min.js?ver=1.0.1
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\assets\js\bb-countdown.min.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/assets/js/vendor/jquery.mask.js?ver=5.0.4
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\assets\js\vendor\jquery.mask.js
-Content Type: application/javascript
 
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/access-control/assets/css/bb-access-control.min.css?ver=2.4.80
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\access-control\assets\css\bb-access-control.min.css
@@ -78,112 +22,179 @@ Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/pl
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\css\bb-onesignal.min.css
 Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/css/bb-onesignal.min.css?ver=2.4.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\css\bb-onesignal.min-1.css
-Content Type: text/css
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/img/browsers-images/chrome-logo.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\img\browsers-images\chrome-logo.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/img/browsers-images/edge-browser-icon.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\img\browsers-images\edge-browser-icon.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/img/browsers-images/firefox-logo.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\img\browsers-images\firefox-logo.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/img/browsers-images/opera-icon.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\img\browsers-images\opera-icon.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/img/browsers-images/safari-logo.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\img\browsers-images\safari-logo.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/js/bb-onesignal.min.js?ver=2.4.80
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\js\bb-onesignal.min.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/onesignal/assets/js/bb-onesignal.min.js?ver=2.4.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\onesignal\assets\js\bb-onesignal.min-1.js
-Content Type: application/javascript
-
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/tutorlms/assets/css/bb-tutorlms-admin.min.css?ver=2.5.52
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\tutorlms\assets\css\bb-tutorlms-admin.min.css
 Content Type: text/css
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/tutorlms/assets/js/bb-tutorlms-admin.min.js?ver=2.5.52
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\tutorlms\assets\js\bb-tutorlms-admin.min.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/tutorlms/assets/js/bb-tutorlms-admin.min.js?ver=2.5.71
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\tutorlms\assets\js\bb-tutorlms-admin.min-1.js
-Content Type: application/javascript
 
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/css/bp-zoom.min.css?ver=2.4.80
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\zoom\assets\css\bp-zoom.min.css
 Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/css/bp-zoom.min.css?ver=2.4.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\zoom\assets\css\bp-zoom.min-1.css
-Content Type: text/css
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/images/arrow-down.svg
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\zoom\assets\images\arrow-down.svg
-Content Type: image/svg+xml
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/js/bp-zoom.min.js?ver=2.4.80
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\zoom\assets\js\bp-zoom.min.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/integrations/zoom/assets/js/bp-zoom.min.js?ver=2.4.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\integrations\zoom\assets\js\bp-zoom.min-1.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/reactions/assets/js/bb-reaction.min.js?ver=2.4.80
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\reactions\assets\js\bb-reaction.min.js
-Content Type: application/javascript
-
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform-pro/includes/reactions/assets/js/bb-reaction.min.js?ver=2.4.90
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform-pro\includes\reactions\assets\js\bb-reaction.min-1.js
-Content Type: application/javascript
-
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/css/vendor/video-js.min.css?ver=2.5.52
 File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\css\vendor\video-js.min.css
 Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/images/profile-avatar-buddyboss-50.png
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\images\profile-avatar-buddyboss-50.png
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/css/buddypress.min.css?ver=2.5.52
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-templates\bp-nouveau\css\buddypress.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/icons/css/bb-icons.min.css?ver=1.0.5
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-templates\bp-nouveau\icons\css\bb-icons.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/icons/css/icons-map.min.css?ver=2.5.52
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-templates\bp-nouveau\icons\css\icons-map.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.20.1
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.2
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/memberpress/css/ui/theme.css?ver=1.11.27
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\memberpress\css\ui\theme.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=4.12.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\sfwd-lms\assets\css\jquery.dropdown.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/sfwd-lms/themes/ld30/assets/css/learndash.min.css?ver=4.12.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\sfwd-lms\themes\ld30\assets\css\learndash.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=4.12.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\sfwd-lms\themes\legacy\templates\learndash_lesson_video.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=4.12.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\sfwd-lms\themes\legacy\templates\learndash_quiz_front.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme-child/assets/css/custom.css?ver=6.4.3
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme-child\assets\css\custom.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/buddypress.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\buddypress.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/elementor.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\elementor.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/learndash.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\learndash.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/memberpress.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\memberpress.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/plugins.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\plugins.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/template-v2.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\template-v2.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/theme.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/vendors/magnific-popup.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\vendors\magnific-popup.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/assets/css/vendors/select2.min.css?ver=2.5.40
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\assets\css\vendors\select2.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/blocks/buddypanel/build/style-buddypanel.css?ver=a43481f57c3cc73f6cce06223a569c14
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\blocks\buddypanel\build\style-buddypanel.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/inc/admin/framework/redux-core/assets/css/extendify-utilities.css?ver=4.4.11
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\inc\admin\framework\redux-core\assets\css\extendify-utilities.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/themes/buddyboss-theme/inc/plugins/buddyboss-menu-icons/vendor/kucrut/icon-picker/css/types/buddyboss_legacy.css?ver=1.0
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\themes\buddyboss-theme\inc\plugins\buddyboss-menu-icons\vendor\kucrut\icon-picker\css\types\buddyboss_legacy.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/2023/09/cropped-user-circle-180x180.png
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\2023\09\cropped-user-circle-180x180.png
 Content Type: image/png
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/bb-emoji-loader.min.js?ver=2.5.52
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\bb-emoji-loader.min.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/2023/09/cropped-user-circle-192x192.png
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\2023\09\cropped-user-circle-192x192.png
+Content Type: image/png
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/bb-emoji-loader.min.js?ver=2.5.71
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\bb-emoji-loader.min-1.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/2023/09/cropped-user-circle-32x32.png
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\2023\09\cropped-user-circle-32x32.png
+Content Type: image/png
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/jquery-query.min.js?ver=2.5.52
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\jquery-query.min.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/2023/09/Rounded_Elegance.ttf
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\2023\09\Rounded_Elegance.ttf
+Content Type: font/ttf
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/jquery-query.min.js?ver=2.5.71
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\jquery-query.min-1.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/elementor/css/global.css?ver=1710979265
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/livestamp.min.js?ver=2.5.52
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\livestamp.min.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/uploads/elementor/css/post-52.css?ver=1710979265
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\uploads\elementor\css\post-52.css
+Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/livestamp.min.js?ver=2.5.71
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\livestamp.min-1.js
-Content Type: application/javascript
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-includes/css/dashicons.min.css?ver=6.4.3
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-includes\css\dashicons.min.css
+Content Type: text/css
 
-Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/codemirror.min.js?ver=2.5.52
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\vendor\codemirror.min.js
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-json/oembed/1.0/embed-1?url=https:%2F%2Fcreators.viralish.com%2Fcourses%2Fstcky%2F&format=xml
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-json\oembed\1.0\embed-1
+Content Type: 
+
+Uri: http://localhost/personal_website/viralish_php/public/content/wp-json/oembed/1.0/embed?url=https:%2F%2Fcreators.viralish.com%2Fcourses%2Fstcky%2F
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-json\oembed\1.0\embed
+Content Type: 
+
+Uri: http://localhost/personal_website/viralish_php/public/css-1?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.3
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\css-1
+Content Type: 
+
+Uri: http://localhost/personal_website/viralish_php/public/overview
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\overview.html
+Content Type: text/html
+
+Uri: http://localhost/personal_website/viralish_php/public/persona_definition
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\persona_definition.html
+Content Type: text/html
+
+Uri: http://localhost/personal_website/viralish_php/public/schedule_form
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\schedule_form.html
+Content Type: text/html
+
+Uri: http://localhost/personal_website/viralish_php/public/your_schedule
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\your_schedule.html
+Content Type: text/html
+
+lish_php\public\content\wp-content\plugins\buddyboss-platform\bp-core\js\vendor\codemirror.min.js
 Content Type: application/javascript
 
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-content/plugins/buddyboss-platform/bp-core/js/vendor/codemirror.min.js?ver=2.5.71
