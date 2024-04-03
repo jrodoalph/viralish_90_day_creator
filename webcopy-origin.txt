@@ -1,5 +1,5 @@
 Uri: http://localhost/personal_website/viralish_php/public/
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\index.htm
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\index.html
 Content Type: text/html
 
 Uri: http://localhost/personal_website/viralish_php/public/content/css?family=Montserrat&display=swap&ver=1709141130
@@ -1094,7 +1094,7 @@ File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhos
 Content Type: application/javascript
 
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-json/
-File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-json\index.htm
+File Name: C:\Users\rodoalphj\Documents\1 - Semester 7\IACBE - Viralish\localhost_scrape\localhost\personal_website\viralish_php\public\content\wp-json\index.html
 Content Type: text/html
 
 Uri: http://localhost/personal_website/viralish_php/public/content/wp-json/oembed/1.0/embed-1?url=https:%2F%2Fcreators.viralish.com%2Fcourses%2Fstcky%2F&format=xml
